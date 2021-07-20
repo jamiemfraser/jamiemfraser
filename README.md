@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamiemfraser
-- 👀 I’m interested in data science for social impact!
-- 🌱 I’m currently learning Python, R, and SQL
-- 💞️ I’m looking to collaborate on projects that serve the public good :) 
+- 📍 I'm in Geneva, Switzerland
+- 👀 I’m interested in data science for social impact 
+- 🐠 I'm currently learning EVERYTHING 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jamie-marie-fraser/
 
 <!---
