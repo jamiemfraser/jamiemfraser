@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamiemfraser
-- 📍 I'm in Geneva, Switzerland
+- 📍 I'm in Honolulu, Hawaii
 - 👀 I’m interested in data science for social impact 
 - 🐠 I'm currently learning EVERYTHING 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jamie-marie-fraser/
